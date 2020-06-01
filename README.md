@@ -10,7 +10,7 @@ short term basis for a price or free. The goal of this project was to build a ne
 of borrowed bicycles in a specific day to better help bike sharing associations understand their customers' behavior and improve
 their business according to it. To carry out the problem, the model was built on a real dataset which you
 can find [here](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
-
+<br/><br/>
 
 ## Understanding the Dataset
 
@@ -24,19 +24,18 @@ of the data and a visualization of the first 10 days below.
 <img src="Images/dataset.png" alt="dataset image" width="800" />
 </p>
 
-<br/><br/>
 
 <p align="center">
 <img src="Images/10days.png" alt="10 days visualization" width="450" />
 </p>
 
-
+<br/><br/>
 
 
 ## Understanding the Model
 Splitting the dataset's attributes into features and target was the first step of building the nueral network. The figure below takes the features as inputs, and predicts and `cnt` as output.
 
-
+<br/><br/>
 
 <p align="center">
 <img src="Images/neural_network.png" alt="nueral network" width="450" />
