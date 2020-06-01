@@ -22,9 +22,11 @@ of the data and a visualization of the first 10 days below.
 
 <p align="center">
 <img src="Images/dataset.png" alt="dataset image" width="800" />
-  
+</p>
+
 <br/><br/>
 
+<p align="center">
 <img src="Images/10days.png" alt="10 days visualization" width="450" />
 </p>
 
