@@ -18,9 +18,12 @@ This dataset has the number of riders for each hour of each day from January 1 2
 of riders is split between casual and registered, summed up in the `cnt` column. You can see the first few rows
 of the data and a visualization of the first 10 days below.
 
+<br/><br/>
+
 <p align="center">
 <img src="Images/dataset.png" alt="dataset image" width="800" />
-
+  
+<br/><br/>
 
 <img src="Images/10days.png" alt="10 days visualization" width="450" />
 </p>
