@@ -33,7 +33,6 @@ Splitting the dataset's attributes into features and target was the first step o
 <p align="center">
 <img src="Images/neural_network.png" alt="nueral network" width="350" />
 </p>
-<br/><br/>
 
 ## Get Started
 1. For best experience with managing dependencies, install [Anaconda](https://docs.anaconda.com/anaconda/install/) or
