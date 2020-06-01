@@ -16,16 +16,23 @@ can find [here](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
 
 This dataset has the number of riders for each hour of each day from January 1 2011 to December 31 2012. The number
 of riders is split between casual and registered, summed up in the `cnt` column. You can see the first few rows
-of the data and a visualization of the first 10 days below
+of the data and a visualization of the first 10 days below.
 
 
-![dataset image](Images/dataset.png)
+<img src="Images/dataset.png" alt="dataset image" width="800" />
 
-<img src="Images/10days.png" style="margin-left: 30vh;" alt="10 days visualization" width="450" />
+
+<img src="Images/10days.png" alt="10 days visualization" width="450" />
 
 
 
 
 
 ## Understanding the Model
+Splitting the dataset's attributes into features and target was the first step of building the nueral network. The figure below takes the features as the input layer, and predicts and `cnt` in the output layer.
+
+
+
+
+<img src="Images/neural_network.png" alt="10 days visualization" width="450" />
 
