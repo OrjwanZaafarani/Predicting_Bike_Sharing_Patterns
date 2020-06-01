@@ -22,21 +22,18 @@ of the data and a visualization of the first 10 days below.
 <img src="Images/dataset.png" alt="dataset image" width="800" />
 </p>
 
-
 <p align="center">
 <img src="Images/10days.png" alt="10 days visualization" width="450" />
 </p>
 <br/><br/>
+
 ## Understanding the Model
 Splitting the dataset's attributes into features and target was the first step of building the nueral network. The figure below takes the features as inputs, and predicts and `cnt` as output.
-
-
 <br/><br/>
 <p align="center">
 <img src="Images/neural_network.png" alt="nueral network" width="350" />
 </p>
 <br/><br/>
-
 ## Get Started
 1. For best experience with managing dependencies, install [Anaconda](https://docs.anaconda.com/anaconda/install/) or
 [miniconda](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html)
@@ -70,8 +67,7 @@ jupyter notebook
 
 
 9. Run the notebook all at once by clicking the Run button or run it cell by cell using `Shift+Enter`
-
-
+<br/><br/>
 ## What to Expect
 If everything runs correctly, the model should ouput the following
 <br/><br/>
