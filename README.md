@@ -18,21 +18,21 @@ This dataset has the number of riders for each hour of each day from January 1 2
 of riders is split between casual and registered, summed up in the `cnt` column. You can see the first few rows
 of the data and a visualization of the first 10 days below.
 
-
+<p align="center">
 <img src="Images/dataset.png" alt="dataset image" width="800" />
 
 
 <img src="Images/10days.png" alt="10 days visualization" width="450" />
-
+</p>
 
 
 
 
 ## Understanding the Model
-Splitting the dataset's attributes into features and target was the first step of building the nueral network. The figure below takes the features as the input layer, and predicts and `cnt` in the output layer.
+Splitting the dataset's attributes into features and target was the first step of building the nueral network. The figure below takes the features as inputs, and predicts and `cnt` as output.
 
 
 
-
-<img src="Images/neural_network.png" alt="10 days visualization" width="450" />
-
+<p align="center">
+<img src="Images/neural_network.png" alt="nueral network" width="450" />
+</p>
